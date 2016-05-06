@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eredivisieNameMapping>
+    <nameMap>
+        <entry>
+            <key>ADO</key>
+            <value>ADO Den Haag</value>
+        </entry>
+        <entry>
+            <key>ADO Den Haag</key>
+            <value>ADO Den Haag</value>
+        </entry>
+        <entry>
+            <key>Ajax</key>
+            <value>020</value>
+        </entry>
+        <entry>
+            <key>Alkmaar</key>
+            <value>AZ</value>
+        </entry>
+        <entry>
+            <key>AZ</key>
+            <value>AZ</value>
+        </entry>
+        <entry>
+            <key>AZ `67</key>
+            <value>AZ</value>
+        </entry>
+        <entry>
+            <key>Blauw Wit</key>
+            <value>Blauw Wit</value>
+        </entry>
+        <entry>
+            <key>BVC Amsterdam</key>
+            <value>BVC Amsterdam</value>
+        </entry>
+        <entry>
+            <key>BVV</key>
+            <value>BVV</value>
+        </entry>
+        <entry>
+            <key>BVV Den Bosch</key>
+            <value>FC Den Bosch</value>
+        </entry>
+        <entry>
+            <key>Cambuur Leeuwarden</key>
+            <value>SC Cambuur</value>
+        </entry>
+        <entry>
+            <key>De Graafschap</key>
+            <value>De Graafschap</value>
+        </entry>
+        <entry>
+            <key>De Volewijckers</key>
+            <value>De Volewijckers</value>
+        </entry>
+        <entry>
+            <key>Dordrecht `90</key>
+            <value>FC Dordrecht</value>
+        </entry>
+        <entry>
+            <key>DOS</key>
+            <value>FC Utrecht</value>
+        </entry>
+        <entry>
+            <key>DS `79</key>
+            <value>FC Dordrecht</value>
+        </entry>
+        <entry>
+            <key>DWS</key>
+            <value>FC Amsterdam</value>
+        </entry>
+        <entry>
+            <key>DWS/A</key>
+            <value>FC Amsterdam</value>
+        </entry>
+        <entry>
+            <key>Eindhoven</key>
+            <value>FC Eindhoven</value>
+        </entry>
+        <entry>
+            <key>Elinkwijk</key>
+            <value>Elinkwijk</value>
+        </entry>
+        <entry>
+            <key>Excelsior</key>
+            <value>Excelsior</value>
+        </entry>
+        <entry>
+            <key>FC Amsterdam</key>
+            <value>FC Amsterdam</value>
+        </entry>
+        <entry>
+            <key>FC Den Bosch</key>
+            <value>FC Den Bosch</value>
+        </entry>
+        <entry>
+            <key>FC Den Haag</key>
+            <value>ADO Den Haag</value>
+        </entry>
+        <entry>
+            <key>FC Dordrecht</key>
+            <value>FC Dordrecht</value>
+        </entry>
+        <entry>
+            <key>FC Groningen</key>
+            <value>FC Groningen</value>
+        </entry>
+        <entry>
+            <key>FC Twente</key>
+            <value>FC Twente</value>
+        </entry>
+        <entry>
+            <key>FC Twente `65</key>
+            <value>FC Twente</value>
+        </entry>
+        <entry>
+            <key>FC Utrecht</key>
+            <value>FC Utrecht</value>
+        </entry>
+        <entry>
+            <key>FC Volendam</key>
+            <value>FC Volendam</value>
+        </entry>
+        <entry>
+            <key>FC VVV</key>
+            <value>VVV-Venlo</value>
+        </entry>
+        <entry>
+            <key>FC Wageningen</key>
+            <value>FC Wageningen</value>
+        </entry>
+        <entry>
+            <key>FC Zwolle</key>
+            <value>PEC Zwolle</value>
+        </entry>
+        <entry>
+            <key>Feijenoord</key>
+            <value>Feyenoord</value>
+        </entry>
+        <entry>
+            <key>Feyenoord</key>
+            <value>Feyenoord</value>
+        </entry>
+        <entry>
+            <key>Fortuna `54</key>
+            <value>Fortuna Sittard</value>
+        </entry>
+        <entry>
+            <key>Fortuna Sittard</key>
+            <value>Fortuna Sittard</value>
+        </entry>
+        <entry>
+            <key>FSC</key>
+            <value>Fortuna Sittard</value>
+        </entry>
+        <entry>
+            <key>Go Ahead</key>
+            <value>Go Ahead Eagles</value>
+        </entry>
+        <entry>
+            <key>Go Ahead Eagles</key>
+            <value>Go Ahead Eagles</value>
+        </entry>
+        <entry>
+            <key>GVAV</key>
+            <value>FC Groningen</value>
+        </entry>
+        <entry>
+            <key>Haarlem</key>
+            <value>HFC Haarlem</value>
+        </entry>
+        <entry>
+            <key>Helmond Sport</key>
+            <value>Helmond Sport</value>
+        </entry>
+        <entry>
+            <key>Heracles</key>
+            <value>Heracles Almelo</value>
+        </entry>
+        <entry>
+            <key>Heracles Almelo</key>
+            <value>Heracles Almelo</value>
+        </entry>
+        <entry>
+            <key>Holland Sport</key>
+            <value>Holland Sport</value>
+        </entry>
+        <entry>
+            <key>MVV</key>
+            <value>MVV</value>
+        </entry>
+        <entry>
+            <key>NAC</key>
+            <value>NAC</value>
+        </entry>
+        <entry>
+            <key>NAC Breda</key>
+            <value>NAC</value>
+        </entry>
+        <entry>
+            <key>NEC</key>
+            <value>NEC</value>
+        </entry>
+        <entry>
+            <key>NOAD</key>
+            <value>NOAD</value>
+        </entry>
+        <entry>
+            <key>PEC Zwolle</key>
+            <value>PEC Zwolle</value>
+        </entry>
+        <entry>
+            <key>PSV</key>
+            <value>PSV</value>
+        </entry>
+        <entry>
+            <key>Rapid JC</key>
+            <value>Roda JC</value>
+        </entry>
+        <entry>
+            <key>RBC Roosendaal</key>
+            <value>RBC Roosendaal</value>
+        </entry>
+        <entry>
+            <key>RKC</key>
+            <value>RKC Waalwijk</value>
+        </entry>
+        <entry>
+            <key>RKC Waalwijk</key>
+            <value>RKC Waalwijk</value>
+        </entry>
+        <entry>
+            <key>Roda JC</key>
+            <value>Roda JC</value>
+        </entry>
+        <entry>
+            <key>SC Cambuur</key>
+            <value>SC Cambuur</value>
+        </entry>
+        <entry>
+            <key>SC Enschede</key>
+            <value>SC Enschede</value>
+        </entry>
+        <entry>
+            <key>SC Heerenveen</key>
+            <value>SC Heerenveen</value>
+        </entry>
+        <entry>
+            <key>SC Heracles</key>
+            <value>Heracles Almelo</value>
+        </entry>
+        <entry>
+            <key>SHS</key>
+            <value>Holland Sport</value>
+        </entry>
+        <entry>
+            <key>Sittardia</key>
+            <value>Sittardia</value>
+        </entry>
+        <entry>
+            <key>Sparta</key>
+            <value>Sparta</value>
+        </entry>
+        <entry>
+            <key>Sparta Rotterdam</key>
+            <value>Sparta</value>
+        </entry>
+        <entry>
+            <key>SVV</key>
+            <value>SVV</value>
+        </entry>
+        <entry>
+            <key>SVV/Dordrecht `90</key>
+            <value>FC Dordrecht</value>
+        </entry>
+        <entry>
+            <key>Telstar</key>
+            <value>Telstar</value>
+        </entry>
+        <entry>
+            <key>Willem II</key>
+            <value>Willem II</value>
+        </entry>
+        <entry>
+            <key>Vitesse</key>
+            <value>Vitesse</value>
+        </entry>
+        <entry>
+            <key>Veendam</key>
+            <value>FC Veendam</value>
+        </entry>
+        <entry>
+            <key>Volendam</key>
+            <value>FC Volendam</value>
+        </entry>
+        <entry>
+            <key>VVV</key>
+            <value>VVV-Venlo</value>
+        </entry>
+        <entry>
+            <key>VVV-Venlo</key>
+            <value>VVV-Venlo</value>
+        </entry>
+        <entry>
+            <key>Xerxes</key>
+            <value>Xerxes</value>
+        </entry>
+        <entry>
+            <key>Xerxes/DHC `66</key>
+            <value>Xerxes</value>
+        </entry>
+    </nameMap>
+</eredivisieNameMapping>
